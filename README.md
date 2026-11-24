@@ -17,6 +17,8 @@ An Arduino Uno differential-drive robot that follows a predefined two-segment ro
 
 The supplied sketch is configured for targetX=200 cm and targetY=-100 cm. These are program settings, not independently measured endpoint coordinates.
 
+![Prototype photograph from the course report](assets/prototype.png)
+
 ## Hardware
 
 Arduino Uno, MPU6050, HC-SR04, SG90 scanning servo, L298N driver, two DC motors and two encoders.
